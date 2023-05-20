@@ -37,7 +37,6 @@ export const footerData = {
     { ariaLabel: 'Facebook', icon: 'tabler:brand-facebook', href: 'https://www.facebook.com/trophycatgames/' },
     { ariaLabel: 'Patreon', icon: 'tabler:brand-patreon', href: 'https://patreon.com/TrophyCatGames' },
     { ariaLabel: 'TikTok', icon: 'tabler:brand-tiktok', href: 'https://tiktok.com/@trophycatgames' },
-    { ariaLabel: 'Twitter', icon: 'tabler:brand-twitter', href: 'https://twitter.com/TrophyCatGames' },
     { ariaLabel: 'YouTube', icon: 'tabler:brand-youtube', href: 'https://www.youtube.com/@trophycatgames' },
 
     
