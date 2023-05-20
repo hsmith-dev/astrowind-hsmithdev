@@ -1,15 +1,15 @@
 import defaultImage from './assets/images/default.png';
 
 const CONFIG = {
-  name: 'AstroWind',
+  name: 'CockCollector',
 
-  origin: 'https://astrowind.vercel.app',
+  origin: 'https:/cockcollector.app',
   basePathname: '/',
   trailingSlash: false,
 
-  title: 'AstroWind — Free template for create a website with Astro + Tailwind CSS',
+  title: 'CockCollector — A free mobile game for you to collect chickens on the go.',
   description:
-    '🚀 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs.',
+    'Entertaining collections to come, stay tuned.',
   defaultImage: defaultImage,
 
   defaultTheme: 'system', // Values: "system" | "light" | "dark" | "light:only" | "dark:only"
@@ -58,5 +58,5 @@ const CONFIG = {
 };
 
 export const SITE = { ...CONFIG, blog: undefined };
-export const BLOG = CONFIG.blog;
+//export const BLOG = CONFIG.blog;
 export const DATE_FORMATTER = CONFIG.dateFormatter;
