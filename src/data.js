@@ -15,7 +15,7 @@ export const footerData = {
     {
       title: 'Support',
       links: [
-        { text: 'Email', href: 'mailto:support@cockcollector.app' },
+        { text: 'Email', href: 'mailto:support@eclucktic.app' },
         { text: 'Support Us', href: 'https://patreon.com/TrophyCatGames' },
       ],
     },

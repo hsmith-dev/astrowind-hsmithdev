@@ -1,13 +1,13 @@
 import defaultImage from './assets/images/default.png';
 
 const CONFIG = {
-  name: 'CockCollector',
+  name: 'E-Cluck-Tic a Chicken Collector game',
 
-  origin: 'https:/cockcollector.app',
+  origin: 'https:/eclucktic.app',
   basePathname: '/',
   trailingSlash: false,
 
-  title: 'CockCollector — A free mobile game for you to collect chickens on the go.',
+  title: 'E-Cluck-Tic a free Chicken Collector mobile game for you to collect chickens on the go.',
   description:
     'Entertaining collections to come, stay tuned.',
   defaultImage: defaultImage,
